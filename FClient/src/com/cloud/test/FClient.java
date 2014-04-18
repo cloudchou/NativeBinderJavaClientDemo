@@ -21,8 +21,7 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.os.ServiceManager;
 
-public class FClient {
-	static final java.lang.String DESCRIPTOR = "com.cloud.test.BServer";
+public class FClient { 
 
 	/**
 	 * Command-line entry point.
