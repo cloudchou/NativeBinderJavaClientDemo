@@ -9,20 +9,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:enabled="false"
-        android:text="Test Print" />
+        android:text="@string/test_print" />
 
     <Button
         android:id="@+id/btn_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:enabled="false"
-        android:text="Test ADD" />
+        android:text="@string/test_add" />
     
      <Button
         android:id="@+id/btn_test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:enabled="false"
-        android:text="Test  test" />
+        android:text="@string/test_test" />
 
 </LinearLayout>
